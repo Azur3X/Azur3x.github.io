@@ -1,11 +1,19 @@
 ---
 layout: cv
+title: "CV"
 permalink: /cv/
-title: cv
 nav: true
 nav_order: 5
-cv_pdf: CV-english.pdf # you can also use external links here
-description: This is a description of the page. You can modify it in '_pages/cv.md'. You can also change or remove the top pdf download button.
+
+# PDF download (can be local file or external link)
+cv_pdf: "CV-english.pdf"
+
+# Meta description (appears in search engines / previews)
+description: >
+  Important notice! The dates in the work experience section 
+  can be seen more precisely in the PDF version.
+
+# Table of contents settings
 toc:
   sidebar: left
 ---

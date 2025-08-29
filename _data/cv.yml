@@ -1,0 +1,49 @@
+- title: General Information
+  type: map
+  contents:
+    - name: Full Name
+      value: Mathias Bonde Jensen
+    - name: Profile
+      value: >
+        I perform well under pressure and can keep a calm head. I am quick to learn and always enthusiastic. I am a huge bundle of joy, always ready for fun and games, but I can also focus deeply when necessary.
+    - name: Phone
+      value: [redacted]
+    - name: Email
+      value: [redacted]
+    - name: Address
+      value: [redacted]
+
+- title: Education
+  type: time_table
+  contents:
+    - title: Primary School
+      institution: Augustenborg Primary School
+      year: 2009-2019
+    - title: Boarding School
+      institution: Nordborg Slots Boarding School
+      year: 2019-2020
+    - title: HTX (Higher Technical Examination Programme)
+      institution: EUC Syd - Sønderborg (Technical College)
+      year: 2020-2023
+
+- title: Work Experience
+  type: time_table
+  contents:
+    - title: Advertising Distributor (Leaflet Delivery)
+      institution: FK Distribution
+      year: 2017-2019
+    - title: Dishwasher
+      institution: Café Stjernen
+      year: 2018-2018
+    - title: Cashier and Sales Assistant
+      institution: Davidsen Tømmerhandel Høruphav A/S
+      year: 2020-2021
+    - title: Guest Experience Staff
+      institution: Universe Science Park
+      year: Summer 2022
+    - title: Retail Assistant
+      institution: Tanken Augustenborg
+      year: 2022-2023
+    - title: Technical Support
+      institution: Norlys Digital A/S
+      year: 2023-2024
