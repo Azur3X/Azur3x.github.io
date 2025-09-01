@@ -1,6 +1,6 @@
 ---
 layout: about
-title: about
+title: About
 permalink: /
 subtitle: '"If I cannot create it, I do not understand it" - Richard Feynman'
 

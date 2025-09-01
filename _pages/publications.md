@@ -1,7 +1,7 @@
 ---
 layout: page
 permalink: /reading/
-title: reading
+title: Reading
 description: A selection of my favorite books and other publications that inspire me, as I do not yet have formal publications.
 nav: true
 nav_order: 2

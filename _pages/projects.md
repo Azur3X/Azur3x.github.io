@@ -1,15 +1,13 @@
 ---
 layout: page
-title: projects
+title: Projects
 permalink: /projects/
-description: A selection of projects I am working on or plan to highlight, currently being set up.
+description: A selection of projects I have done, and are avalible on my GitHub. Visit GitHub for more techinal detail.
 nav: true
 nav_order: 3
-display_categories: [work, fun]
+# display_categories: [work, fun] # If i need a seperation for categories.
 horizontal: false
 ---
-
-{% comment %}
 
 <div class="projects">
 {% if site.enable_project_categories and page.display_categories %}
@@ -64,4 +62,3 @@ horizontal: false
   {% endif %}
 {% endif %}
 </div>
-{% endcomment %}
