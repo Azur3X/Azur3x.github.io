@@ -14,6 +14,13 @@ My Sudoku Solver project began with an interest in applying theory learned in my
 
 Constraint programming is a paradigm for solving combinatorial problems by defining variables and constraints that must be satisfied. Sudoku itself is inherently a constraint problem: it is a number puzzle on a 9x9 grid where each row, each column, and each 3x3 subgrid must contain unique numbers from 1 to 9 without repetition.
 
+<!-- Example image for the first iteration -->
+<div class="row justify-content-center">
+  <div class="col-sm-6 mt-3">
+    {% include figure.liquid path="assets/img/Sudoku_iteration1.png" title="Sudoku Solver First Iteration" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
 The solver uses the Python `constraint` library to model the Sudoku. Each cell is treated as a variable with a domain of possible values. Known cells have a fixed domain containing only that value. The Sudoku rules are encoded as "all different" constraints on rows, columns, and 3x3 boxes.
 
 Using the `Problem` class, the solver represents variables and constraints and calls `getSolution()` to find a valid solution. The output is formatted into a readable Sudoku grid with clear separation of 3x3 boxes.
@@ -21,13 +28,6 @@ Using the `Problem` class, the solver represents variables and constraints and c
 Initially, the solver required the Sudoku grid to be hardcoded. I later improved it by adding an input method where the user can provide the Sudoku puzzle line by line, using 0 or a dot to represent blank spaces.
 
 This first iteration of my Sudoku Solver can be found on my [GitHub](https://github.com/Azur3X/AzureX-projects/tree/main/AI/CSP).
-
-<!-- Example image for the first iteration -->
-<div class="row justify-content-center">
-  <div class="col-sm-6 mt-3">
-    {% include figure.liquid path="assets/img/Sudoku_iteration1.png" title="Sudoku Solver First Iteration" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
 
 ---
 

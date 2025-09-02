@@ -16,34 +16,34 @@
 - title: Education
   type: time_table
   contents:
-    - title: Primary School
-      institution: Augustenborg Primary School
-      year: 2009-2019
-    - title: Boarding School
-      institution: Nordborg Slots Boarding School
-      year: 2019-2020
+    - title: Computer Science Bachelor (ongoing)
+      institution: University of Southern Denmark
+      year: 2024-present
     - title: HTX (Higher Technical Examination Programme)
       institution: EUC Syd - Sønderborg (Technical College)
       year: 2020-2023
+    - title: Boarding School
+      institution: Nordborg Slots Boarding School
+      year: 2019-2020
 
 - title: Work Experience
   type: time_table
   contents:
-    - title: Advertising Distributor (Leaflet Delivery)
-      institution: FK Distribution
-      year: 2017-2019
-    - title: Dishwasher
-      institution: Café Stjernen
-      year: 2018-2018
-    - title: Cashier and Sales Assistant
-      institution: Davidsen Tømmerhandel Høruphav A/S
-      year: 2020-2021
-    - title: Guest Experience Staff
-      institution: Universe Science Park
-      year: Summer 2022
-    - title: Retail Assistant
-      institution: Tanken Augustenborg
-      year: 2022-2023
     - title: Technical Support
       institution: Norlys Digital A/S
       year: 2023-2024
+    - title: Retail Assistant
+      institution: Tanken Augustenborg
+      year: 2022-2023
+    - title: Guest Experience Staff
+      institution: Universe Science Park
+      year: Summer 2022
+    - title: Cashier and Sales Assistant
+      institution: Davidsen Tømmerhandel Høruphav A/S
+      year: 2020-2021
+    - title: Dishwasher
+      institution: Café Stjernen
+      year: 2018-2018
+    - title: Advertising Distributor (Leaflet Delivery)
+      institution: FK Distribution
+      year: 2017-2019
