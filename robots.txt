@@ -1,14 +1,3 @@
----
-permalink: /robots.txt
----
-User-agent: *
-Disallow:
-
-Sitemap: {{ site.baseurl---
-permalink: /robots.txt
-layout: none
----
-# Allow all crawlers
 User-agent: *
 Allow: /
 
@@ -38,5 +27,5 @@ Allow: /
 User-agent: PerplexityBot
 Allow: /
 
-# Sitemap
-Sitemap: {{ site.url }}{{ site.baseurl }}/sitemap.xml
+# Sitemap for better discoverability
+Sitemap: https://azur3x.org/sitemap.xml
