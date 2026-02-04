@@ -8,8 +8,6 @@ nav: true
 nav_order: 4.5
 ---
 
-A curated selection of my photography work.
-
 <div class="text-center mt-5">
   <a href="https://photos.azur3x.org/" 
      class="btn btn-primary btn-lg" 
