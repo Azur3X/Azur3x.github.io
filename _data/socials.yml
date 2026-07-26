@@ -10,8 +10,7 @@
 # bluesky_url: # your bluesky URL
 # dblp_url: # your DBLP profile url
 # discord_id: # your discord id (18-digit unique numerical identifier)
-email: mathj24@student.sdu.dk # your email address
-# facebook_id: [redacted] # your facebook id
+email: contact@azur3x.org # your email address
 # flickr_id: # your flickr id
 github_username: Azur3X # your GitHub user name
 # gitlab_username: # your GitLab user name
@@ -25,7 +24,7 @@ github_username: Azur3X # your GitHub user name
 # lattes_id: # your ID on Lattes (Brazilian Lattes CV)
 # leetcode_id: # your LeetCode id
 linkedin_username: mathias-bonde-jensen-2685572b7 # your LinkedIn user name
-# mastodon_username: # your mastodon instance+username in the format instance.tld/@username
+mastodon_username: infosec.exchange/@azur3x # your mastodon instance+username in the format instance.tld/@username
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
@@ -47,7 +46,6 @@ linkedin_username: mathias-bonde-jensen-2685572b7 # your LinkedIn user name
 # wikidata_id: # your wikidata id
 # wikipedia_id: # your wikipedia id (Case sensitive)
 # work_url: # work page URL
-# x_username: [redacted] # your X handle
 # youtube_id: # your youtube channel id (youtube.com/@<youtube_id>)
 # zotero_username: # your zotero username
 # custom_social: # can be any name here other than the ones already defined above

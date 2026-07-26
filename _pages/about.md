@@ -22,7 +22,7 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-My name is Mathias Bonde Jensen, and I am currently pursuing a Bachelor of Science in Computer Science at the University of Southern Denmark. I also go by the online handle Azur3x across various platforms. This portfolio provides an overview of my academic achievements and projects, many of which are showcased on my GitHub
+My name is Mathias Bonde Jensen, and I am currently pursuing a Bachelor of Science in Computer Science at the University of Southern Denmark. This portfolio provides an overview of my academic achievements and projects, many of which are showcased on my GitHub.
 
 I have completed numerous hobby projects that have allowed me to explore and deepen my understanding of various areas within computer science. I am passionate about learning new technologies and enjoy sharing knowledge with others.
 
