@@ -5,7 +5,7 @@ permalink: /projects/
 description: A selection of projects I have done, and that are avalible on my GitHub. Visit GitHub for more techinal detail.
 nav: true
 nav_order: 3
-display_categories: [systems, academic, privacy, fun]
+display_categories: [systems, academic]
 horizontal: false
 ---
 

@@ -2,7 +2,7 @@
 layout: page
 title: Self-Hosted Infrastructure
 description: A zero-trust home server running my digital life — self-hosted, privacy-first, and built to be understood end to end.
-img: assets/img/homelab.jpg
+img: assets/img/homelab.png
 importance: 1
 category: systems
 ---
