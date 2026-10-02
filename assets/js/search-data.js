@@ -11,14 +11,14 @@ ninja.data = [{
     },
   },{id: "nav-reading",
           title: "Reading",
-          description: "A selection of my favorite books and other publications that inspire me, as I do not yet have formal publications.",
+          description: "Books and papers that have shaped how I think — mostly privacy and the theory of anonymity, with a few from further afield.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/reading/";
           },
         },{id: "nav-projects",
           title: "Projects",
-          description: "A selection of projects I have done, and are avalible on my GitHub. Visit GitHub for more techinal detail.",
+          description: "A selection of projects I have done, and that are avalible on my GitHub. Visit GitHub for more techinal detail.",
           section: "Navigation",
           handler: () => {
             window.location.href = "/projects/";
@@ -37,11 +37,26 @@ ninja.data = [{
           handler: () => {
             window.location.href = "/cv/";
           },
-        },{id: "projects-sudoku-solver",
+        },{id: "projects-self-hosted-infrastructure",
+          title: 'Self-Hosted Infrastructure',
+          description: "A zero-trust home server running my digital life — self-hosted, privacy-first, and built to be understood end to end.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/homelab.html";
+            },},{id: "projects-pac-man",
+          title: 'Pac-Man',
+          description: "A full Pac-Man game in Java — built around clean OOP design, with pathfinding AI for the ghosts.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/pacman.html";
+            },},{id: "projects-sorting-network-optimisation",
+          title: 'Sorting Network Optimisation',
+          description: "Constructing and optimising sorting networks — a three-phase algorithms project.",
+          section: "Projects",handler: () => {
+              window.location.href = "/projects/sorting-networks.html";
+            },},{id: "projects-sudoku-solver",
           title: 'Sudoku Solver',
           description: "This is my Sudoku Solver, made using constraint programming and machine learning",
           section: "Projects",handler: () => {
-              window.location.href = "/projects/1_project.html";
+              window.location.href = "/projects/sudokusolver.html";
             },},{
         id: 'social-email',
         title: 'email',
