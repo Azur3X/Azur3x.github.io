@@ -2,7 +2,7 @@
 layout: page
 permalink: /reading/
 title: Reading
-description: A selection of my favorite books and other publications that inspire me, as I do not yet have formal publications.
+description: Books and papers that have shaped how I think — mostly privacy and the theory of anonymity, with a few from further afield.
 nav: true
 nav_order: 2
 ---

@@ -9,9 +9,8 @@ profile:
   image: prof_pic.jpg
   image_circular: false # crops the image to make it circular
   more_info: >
-    <p>University of Southern Denmark</p>
-    <p>Campusvej 55</p>
-    <p>5230 Odense, Denmark</p>
+    <p>Privacy advocate · Self-hosting · FOSS · Mathematics</p>
+    <p>Odense, Denmark</p>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
@@ -22,12 +21,24 @@ announcements:
   limit: 5 # leave blank to include all the news in the `_news` folder
 ---
 
-My name is Mathias Bonde Jensen, and I am currently pursuing a Bachelor of Science in Computer Science at the University of Southern Denmark. This portfolio provides an overview of my academic achievements and projects, many of which are showcased on my GitHub.
+My name is Mathias Bonde Jensen, a Computer Science undergraduate at the
+University of Southern Denmark. This is where I keep my projects, my reading,
+and a record of what I'm working on.
 
-I have completed numerous hobby projects that have allowed me to explore and deepen my understanding of various areas within computer science. I am passionate about learning new technologies and enjoy sharing knowledge with others.
+My main interest is privacy — specifically the theory of anonymity and
+privacy-preserving data analysis. I'm working through the foundations of
+differential privacy and the information-theoretic limits of
+de-anonymisation, and I'm heading toward a bachelor project applying these
+ideas, with the longer-term goal of research at the intersection of privacy
+and real-world data.
 
-As a dedicated Linux enthusiast, I have a special interest in networking and cybersecurity. I actively manage and self-host my own home server, which helps me apply practical skills in real-world scenarios.
+Most of what I know, I've learned by building. I self-host and manage my own
+home infrastructure — a small fleet of services behind a self-built
+zero-trust network — which is where the networking, security, and Linux side
+of my interests gets tested against reality rather than theory. I care about
+doing these things properly: understanding the system, not just running it.
 
-My love for mathematics fuels my analytical thinking, and I appreciate the broad scope of topics within the CS field. I am particularly fascinated by optimization, whether it’s refining workflows, creating shortcuts, or enhancing system performance.
+A love of mathematics runs underneath all of it, and I'm drawn to problems of
+optimisation — whether that's a cleaner proof, a tighter bound, or a workflow
+that wastes less of my time.
 
-I invite you to explore my portfolio to learn more about my skills, interests, and contributions.

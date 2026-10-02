@@ -4,7 +4,7 @@ title: Sudoku Solver
 description: This is my Sudoku Solver, made using constraint programming and machine learning
 img: assets/img/Sudoku.png
 importance: 1
-category: work
+category: academic
 related_publications: false
 ---
 
@@ -41,13 +41,14 @@ The machine learning model faced challenges correctly detecting the Sudoku grid,
 
 The code for the second iteration can be found on my [GitHub](https://github.com/Azur3X/AzureX-projects/tree/main/Python/SudokuML).
 
+{%comment%}
 <!-- Example GIF for the second iteration -->
 <div class="row justify-content-center">
   <div class="col-sm-6 mt-3">
     <img src="/assets/img/SudokuML_demo.gif" alt="Sudoku Solver Machine Learning Demo" class="img-fluid rounded z-depth-1" />
   </div>
 </div>
-
+{%endcomment%}
 ---
 
 ## The third iteration
@@ -68,9 +69,11 @@ I encountered issues with Cython and Python 3 compatibility, which would require
 
 The code for the last iteration can be found on my [GitHub](https://github.com/Azur3X/AzureX-projects/tree/main/Python/SudokuPhone).
 
+{% comment %}
 <!-- Optionally add a final image or icon -->
 <div class="row justify-content-center">
   <div class="col-sm-4 mt-3">
     {% include figure.liquid path="assets/img/Sudoku_mobile_mockup.png" title="Mobile Sudoku Solver Prototype" class="img-fluid rounded z-depth-1" %}
   </div>
 </div>
+{% endcomment %}

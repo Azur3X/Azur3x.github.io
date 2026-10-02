@@ -2,10 +2,10 @@
 layout: page
 title: Projects
 permalink: /projects/
-description: A selection of projects I have done, and are avalible on my GitHub. Visit GitHub for more techinal detail.
+description: A selection of projects I have done, and that are avalible on my GitHub. Visit GitHub for more techinal detail.
 nav: true
 nav_order: 3
-# display_categories: [work, fun] # If i need a seperation for categories.
+display_categories: [systems, academic, privacy, fun]
 horizontal: false
 ---
 
