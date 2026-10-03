@@ -75,3 +75,9 @@ I encountered issues with Cython and Python 3 compatibility, which would require
 
 The code for the last iteration can be found on my [GitHub](https://github.com/Azur3X/Azur3X-projects/tree/main/Python/SudokuPhone).
 
+---
+
+This is one of my earlier projects, and it shows — the machine learning attempts
+came before I had any formal ML background, which is exactly why they were the
+rough part. Revisiting it with what I've since learned is still on my list.
+
