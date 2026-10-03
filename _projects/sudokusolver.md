@@ -25,9 +25,15 @@ The solver uses the Python `constraint` library to model the Sudoku. Each cell i
 
 Using the `Problem` class, the solver represents variables and constraints and calls `getSolution()` to find a valid solution. The output is formatted into a readable Sudoku grid with clear separation of 3x3 boxes.
 
+<div class="row justify-content-center">
+  <div class="col-sm-8 mt-3">
+    {% include figure.liquid path="assets/img/Sudoku_terminal.png" title="CSP solver output in the terminal" class="img-fluid rounded z-depth-1" %}
+  </div>
+</div>
+
 Initially, the solver required the Sudoku grid to be hardcoded. I later improved it by adding an input method where the user can provide the Sudoku puzzle line by line, using 0 or a dot to represent blank spaces.
 
-This first iteration of my Sudoku Solver can be found on my [GitHub](https://github.com/Azur3X/AzureX-projects/tree/main/AI/CSP).
+This first iteration of my Sudoku Solver can be found on my [GitHub](https://github.com/Azur3X/Azur3X-projects/tree/main/AI/CSP).
 
 ---
 
@@ -39,7 +45,7 @@ Using TensorFlow and Keras, I trained the model with the MNIST dataset, which co
 
 The machine learning model faced challenges correctly detecting the Sudoku grid, likely due to my limited experience with machine learning best practices. I anticipate improving this after completing my introduction to machine learning course.
 
-The code for the second iteration can be found on my [GitHub](https://github.com/Azur3X/AzureX-projects/tree/main/Python/SudokuML).
+The code for the second iteration can be found on my [GitHub](https://github.com/Azur3X/Azur3X-projects/tree/main/Python/SudokuML).
 
 {%comment%}
 <!-- Example GIF for the second iteration -->
@@ -57,7 +63,7 @@ The third iteration sought to complete the vision of reading a Sudoku from an im
 
 To use this version, the user must train their own model. The process is straightforward: install required libraries using the provided requirements file, then run the `train.py` script to generate a model, which the main program uses to solve Sudokus from images.
 
-The code for the third iteration can be found on my [GitHub](https://github.com/Azur3X/AzureX-projects/tree/main/Python/SudokuSolver).
+The code for the third iteration can be found on my [GitHub](https://github.com/Azur3X/Azur3X-projects/tree/main/Python/SudokuSolver).
 
 ---
 
@@ -67,13 +73,5 @@ The last iteration aimed to port the solver to a mobile device, allowing users t
 
 I encountered issues with Cython and Python 3 compatibility, which would require significant rewriting of the program. As a result, I have shelved this project for now and may revisit it in the future.
 
-The code for the last iteration can be found on my [GitHub](https://github.com/Azur3X/AzureX-projects/tree/main/Python/SudokuPhone).
+The code for the last iteration can be found on my [GitHub](https://github.com/Azur3X/Azur3X-projects/tree/main/Python/SudokuPhone).
 
-{% comment %}
-<!-- Optionally add a final image or icon -->
-<div class="row justify-content-center">
-  <div class="col-sm-4 mt-3">
-    {% include figure.liquid path="assets/img/Sudoku_mobile_mockup.png" title="Mobile Sudoku Solver Prototype" class="img-fluid rounded z-depth-1" %}
-  </div>
-</div>
-{% endcomment %}
