@@ -25,6 +25,10 @@ github_username: Azur3X # your GitHub user name
 # leetcode_id: # your LeetCode id
 linkedin_username: mathias-bonde-jensen-2685572b7 # your LinkedIn user name
 mastodon_username: infosec.exchange/@azur3x # your mastodon instance+username in the format instance.tld/@username
+matrix:
+  logo: assets/img/matrix.svg
+  title: Matrix
+  url: https://matrix.to/#/@azur3x:azur3x.org
 # medium_username: # your Medium username
 # orcid_id: # your ORCID ID
 # osf_id: # your OSF ID
