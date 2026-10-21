@@ -86,6 +86,13 @@ ninja.data = [{
           window.open("https://infosec.exchange/@azur3x", "_blank");
         },
       },{
+        id: 'social-matrix',
+        title: 'Matrix',
+        section: 'Socials',
+        handler: () => {
+          window.open("https://matrix.to/#/@azur3x:azur3x.org", "_blank");
+        },
+      },{
       id: 'light-theme',
       title: 'Change theme to light',
       description: 'Change the theme of the site to Light',
