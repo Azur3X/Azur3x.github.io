@@ -11,6 +11,7 @@ profile:
   more_info: >
     <p>Privacy advocate · Self-hosting · FOSS · Mathematics</p>
     <p>Odense, Denmark</p>
+    <a class="eff-badge" href="https://www.eff.org/" target="_blank" rel="noopener noreferrer" title="Member of the Electronic Frontier Foundation"><img src="/assets/img/eff-member.png" alt="EFF member 2026" width="300" height="300" loading="lazy" decoding="async"></a>
 
 selected_papers: false # includes a list of papers marked as "selected={true}"
 social: true # includes social icons at the bottom of the page
