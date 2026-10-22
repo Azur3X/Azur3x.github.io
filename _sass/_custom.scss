@@ -1,0 +1,27 @@
+/******************************************************************************
+ * Site-specific overrides (kept separate from theme files for easier upstream merges)
+ ******************************************************************************/
+
+// EFF member badge in the fixed footer bar
+footer.fixed-bottom .eff-badge {
+  display: inline-block;
+  margin-left: 0.4rem;
+  line-height: 0; // no stray gap below the inline image
+  vertical-align: middle;
+  opacity: 0.75;
+  transition: opacity 150ms ease;
+
+  &:hover,
+  &:focus-visible {
+    opacity: 1;
+  }
+
+  img {
+    height: 1.25rem; // fits the ~35px bar without making it taller
+    width: auto;
+  }
+
+  @media (prefers-reduced-motion: reduce) {
+    transition: none;
+  }
+}
